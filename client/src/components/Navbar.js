@@ -12,7 +12,7 @@ function Navbar() {
           >
             TSF
           </Link>
-          <ul id="nav-mobile" className="right hide-on-med-and-down">
+          <ul id="nav-mobile" className="right">
             <li>
               <Link to="/allUsers" style={{ color: "black" }}>
                 View all users
