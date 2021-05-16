@@ -5,4 +5,4 @@ Build with Mern Stack
 
 Hosted on Heroku
 
-Transfer Money 
+Transfer Money
